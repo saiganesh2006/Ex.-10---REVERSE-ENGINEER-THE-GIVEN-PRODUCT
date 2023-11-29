@@ -11,30 +11,39 @@
 ### ●	 System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
-### Step 1.:- Duplicate all the geometric features for the given object using vernier caliper, measuring tapes or any instruments provided
-### Step 2.:- Design the geometric features in 3D using auto desk fusion 360.
-### Step 3.:- Save the file and export as .stl
-### Step 4.:- Check all Electrical connections in the 3D printer.
-### Step 5.:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option.
-### Step 6.:- Select the Pan option and select the extruder (left or right) for printing the design.
-### Step 7.:- Select the Move option for design print position in build tack plate and then after select the Rotate option for rotating the design easily printed and used low print material.
-### Step 8.:- select the Scale option for design scale according to build tack plate area and then
-### after click the start option and select printing option standard as shown in below figure.
-### Step 9.:- After completing the all setting then click the Slice option and export the file in gcode Format.
-### Step 10.:- After generate the gcode format then follow the these instruction 
-  ###   ●	Switch on the 3d printer.
-  ###   ●	Place your Pen drive in USB.
-  ###   ●	Clean your surface bed plate.
-  ###   ●	Load your filament into the required extruder as per the requirement.
-  ###   ●	Wait until the nozzle & bed plate comes into the required temperature.
-  ###   ●	Close the doors of the 3d printer.
-  ###   ●	Open the file from the USB storage and select the Print option.
+### Step 1:- Check all Electrical connections.
+
+### Step 2:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option as shown in below figure.
+![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/5dced112-6d07-4440-ac1a-90f0f20a3747)
+
+### Step 3:- select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
+![Screenshot 2023-11-29 183607](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/58d23585-f8ea-4b80-b0ef-76f242d7d832)
+
+### Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
+![Screenshot 2023-11-29 183621](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/1493a700-d4ba-4aae-a08a-41a10c3dea36)
+
+### Step 5.:- select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
+![Screenshot 2023-11-29 183659](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/5d2b7322-5d8a-4dc3-9d85-6e41a96d6894)
+
+### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
+![Screenshot 2023-11-29 183743](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/1dcaac9d-5c40-4099-af99-ed9bbb3d3b49)
+
+![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/8a01cf80-bc8a-4f1d-98cd-8d22e5d76f1d)
+
+### Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
+###   1.	Switch on the 3d printer.
+###   2.	Place your Pen drive in USB.
+###   3.	Clean the surface bed plate.
+###   4.	Load filament into the required extruder as per the requirement.
+###   5.	Wait until the nozzle & bed plate comes into the required temperature.
+###   6.	Close the doors of the 3d printer.
+###   7.	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/c72ddd91-9175-480d-8955-008d5839beef)
+![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/c99701e1-a5dd-4eba-9efc-de1e1c5ae757)
 
 ### Output:
-![WhatsApp Image 2023-11-28 at 21 14 30_8feb7fd5](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/64ac2ed8-fe67-40e3-a875-1365bb1952b3)
+![Screenshot 2023-11-29 183759](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/36d461c6-4584-4572-b35f-9b14dafe237d)
 
 
 ### Name: D.B.V.SAI GANESH
