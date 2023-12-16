@@ -17,18 +17,18 @@
 ![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/5dced112-6d07-4440-ac1a-90f0f20a3747)
 
 ### Step 3:- select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
-![Screenshot 2023-11-29 183607](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/58d23585-f8ea-4b80-b0ef-76f242d7d832)
+![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/5bafbc04-cba1-4f54-912e-2da7bc25bfd0)
 
 ### Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
-![Screenshot 2023-11-29 183621](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/1493a700-d4ba-4aae-a08a-41a10c3dea36)
+![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/ef0e9092-2f22-475b-a929-3e791b0c2efc)
 
 ### Step 5.:- select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
-![Screenshot 2023-11-29 183659](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/5d2b7322-5d8a-4dc3-9d85-6e41a96d6894)
+![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/1609cec7-f601-47d2-a72f-5cae901df80d)
 
 ### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
-![Screenshot 2023-11-29 183743](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/1dcaac9d-5c40-4099-af99-ed9bbb3d3b49)
+![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/a3a85ae4-6d66-41ce-a01c-49c083e342e9)
 
-![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/8a01cf80-bc8a-4f1d-98cd-8d22e5d76f1d)
+![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/b658e84f-a22c-4ad3-8a93-0a1273a75467)
 
 ### Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
 ###   1.	Switch on the 3d printer.
@@ -40,10 +40,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/c99701e1-a5dd-4eba-9efc-de1e1c5ae757)
+![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/7bab16c8-a81b-4cc0-b949-c554c2a0049e)
 
 ### Output:
-![Screenshot 2023-11-29 183759](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/36d461c6-4584-4572-b35f-9b14dafe237d)
+![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/c226f91f-2c31-438c-97f4-fc84f72d46d8)
 
 
 ### Name: D.B.V.SAI GANESH
